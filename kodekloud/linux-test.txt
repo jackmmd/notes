@@ -1,0 +1,14 @@
+# Question 1
+echo 'KodeKloud Linux Test'>test.txt && cat test.txt
+
+# Question 2
+hostnamectl
+echo 'CentOS 9'>host-os && cat host-os
+
+#Question 3
+echo '192.168.186.166'>/home/bob/physical_ipaddress && cat physical_ipaddress
+
+#Question 4
+echo '/32'>/home/bob/subnet_mask && cat subnet_mask
+
+#Question 5
