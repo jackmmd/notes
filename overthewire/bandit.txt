@@ -1,1 +1,4 @@
+# Nivel 0
+ssh bandit0@bandit.labs.ovethewire.org -p 2220
+bandit0
 
