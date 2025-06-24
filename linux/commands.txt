@@ -4,3 +4,6 @@ id thor=> Ver el id de un usuario en linux
 sudo cat /etc/*release*
 cat /etc/system-release => Para saber que sistema opertativo se esta ejecutando en el servidor
 cat /etc/os-release => Para saber la version del sistema operativo
+
+nslookup domain.com => Resolver el dng
+ping domain.com => Resolver el DNS
