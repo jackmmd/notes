@@ -3,3 +3,5 @@ dnf list installed openssh-server => Verifica si esta instalado openssh-server
 sudo rpm -i file.rpm => Instalar un paquete .rpm
 rpm -qa | grep ftp => Filtrar un paquete a eliminar
 sudo rpm -e package_name => Eliminar un paquete
+yum install maven => Instalar un paquete con yum
+yum rm mven => Eliminar un paquete
