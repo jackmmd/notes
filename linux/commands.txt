@@ -1,4 +1,4 @@
-mkdir -p /home/thor/asia/india/bangalore => Crear directorios en cadena si no existen
+C:\Users\USUARIO\projects\test\index.htmlmkdir -p /home/thor/asia/india/bangalore => Crear directorios en cadena si no existen
 cp -r folder1 folder2 => Esto copia una carpeta dentro de la otra con todos sus archivos no solo los archivos
 id thor=> Ver el id de un usuario en linux
 sudo cat /etc/*release*
