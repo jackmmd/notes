@@ -7,3 +7,5 @@ cat /etc/os-release => Para saber la version del sistema operativo
 
 nslookup domain.com => Resolver el dng
 ping domain.com => Resolver el DNS
+~/.zshrc => Se ejecuta cada vez que se habre una nueva terminal
+source ~/.zshrc => Sirve para recargar el archivo y aplicar los cambios
