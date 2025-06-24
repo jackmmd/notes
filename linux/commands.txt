@@ -1,1 +1,2 @@
 mkdir -p /home/thor/asia/india/bangalore => Crear directorios en cadena si no existen
+cp -r folder1 folder2 => Esto copia una carpeta dentro de la otra con todos sus archivos no solo los archivos
