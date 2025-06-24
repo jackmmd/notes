@@ -1,0 +1,3 @@
+https://www.vpnbook.com/ => Página para VPN gratuitas
+nslookup domain.com => Resolver el dng
+ping domain.com => Resolver el DNS
