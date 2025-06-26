@@ -1,0 +1,4 @@
+sudo apt-get install bind9 => Sirve para crear DNS
+server bind9 status => Para ver el estado
+dir /stc/bind => Aquí estan los archivos de bind
+  
