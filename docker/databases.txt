@@ -1,0 +1,10 @@
+
+docker run --name postgres-example \                                                                           
+  -e POSTGRES_PASSWORD=duberly2004 \
+  -e POSTGRES_USER=postgres \
+  -e POSTGRES_DB=db_example_1 \
+  -p 5433:5432 \
+  -d postgres
+
+docker exec -it postgres-example psql -U postgres -d db_example_1
+cat backup-multiplica_bbdd_production.sql | docker exec -i -e PGPASSWORD=duberly2004 postgres-example psql -U postgres -d db_example_1
