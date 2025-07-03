@@ -1,0 +1,9 @@
+-- Cambiar la contraseña del usuario root en maria db
+sudo systemctl stop mariadb => Detenemos el servicio
+sudo mysqld_safe --skip-grant-tables --skip-networking & => Inciamos de nuevo el proceso de la base de datos, con estos parametros para que no pida contraseña
+mariadb -u root => Iniciamos dentro de mariadb no pedirá contraseña
+FLUSH PRIVILEGES; => Vaciamos los privilegios
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'new_password_here'; => Cambiamos la contraseña
+exit => Salimos
+sudo service mariadb start => Iniciamos el servicio de maria db
+mysql -u root -p => Iniciamos con las nuevas credenciales
