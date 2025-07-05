@@ -1,0 +1,3 @@
+¿Qué es un sistema opertativo?
+
+Es un conjunto de programas informaticos que facilitan la interacción del usuario.
