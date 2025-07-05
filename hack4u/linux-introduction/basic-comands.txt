@@ -1,0 +1,4 @@
+whoami => Ver el usuario actual
+id => Ver en que grupo estamos
+/etc/group => Lista de grupos
+cat /etc/group | grep 'floppy' -n => Ver el número de línea en el filtro
