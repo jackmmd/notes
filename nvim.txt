@@ -1,0 +1,15 @@
+// Atajos
+esc + espacio + t + h => Elegir temas
+ctrl + n => Abrir el menú lateral
+esc + espacio + f + f => Buscar un archivo y además ver un preview
+esc + espacio + f + b => Buscar entre los archivos abiertos
+:q! => Salir de nvim
+a => Para crear un archivo
+r => Para eliminarlo 
+d => Eliminar
+c => Para copiar
+p => Para pegar
+esc + vsp => Para poner el archivo actual en la parte derecha
+:sp => Se abre el archivo actual por debajo
+
+esc + espacio + c + h => Ver ayuda
