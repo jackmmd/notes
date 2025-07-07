@@ -13,3 +13,4 @@ esc + vsp => Para poner el archivo actual en la parte derecha
 :sp => Se abre el archivo actual por debajo
 
 esc + espacio + c + h => Ver ayuda
+esc + espacio + h => Abrir una terminal abajo
