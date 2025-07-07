@@ -1,1 +1,18 @@
+- Python es un lenguaje de alto nivel
+- Se ejecuta mediante un interprete que traduce el codigo fuente a codigo máquina
 
+- Programación imperativa: Estilo de programación que se centra en describir como de deben realizar las operaciones para lograr un resultado
+- Programación funcional: Evaluaciones de funciones que no modifican el estado del programa
+- Programación orientada a objetos
+
+Diferencias entre python2 y python3
+
+python2 => print "Hello World"
+python3 => print("Hello world")
+
+ASCII =>
+Unicode => Hace que el código sea eficiente
+pip2 => Para instalar paquetes de python2
+pip3 => Para instalar paquetes de python3
+
+python3 -c 'print("Hello World")' => Ejecutar python en la línea de comandos
