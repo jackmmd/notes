@@ -14,3 +14,13 @@ Es una plataforma de código abierto, para crear aplicaciones de escritorio, web
 - Runtime: ejecuta el código de la aplicación.
 - Bibliotecas: proporciona funcionalidad de utilidad como análisis de JSON.
 - Compilador: compila código fuente de C# 
+
+### Conceptos
+- CLR: convierte a código máquina
+- .NET framework: Para aplicaciones Web
+- .NET core: Para APIS y apps de terminal
+
+### ¿Qué es ASP .NET?
+- Es un marco de trabajo web gratuito y de código abierto, desarrollado por Microsoft, para construir aplicaciones y servicios web modernos usando .NET
+
+.Net 5 es la nueva version
