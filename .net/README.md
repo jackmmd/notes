@@ -24,3 +24,5 @@ Es una plataforma de código abierto, para crear aplicaciones de escritorio, web
 - Es un marco de trabajo web gratuito y de código abierto, desarrollado por Microsoft, para construir aplicaciones y servicios web modernos usando .NET
 
 .Net 5 es la nueva version
+
+<img src="./dotnet-distribution.png"/>
