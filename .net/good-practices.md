@@ -1,0 +1,2 @@
+- Los metodos deben tener una responsabilidad única
+- 
