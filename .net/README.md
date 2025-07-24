@@ -26,3 +26,6 @@ Es una plataforma de código abierto, para crear aplicaciones de escritorio, web
 .Net 5 es la nueva version
 
 <img src="./dotnet-distribution.png"/>
+
+Objetivo de Microsoft
+"Escribe una vez, ejecuta en todas partes"
