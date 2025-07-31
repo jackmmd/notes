@@ -1,0 +1,7 @@
+¿Qué es microsoft Exchange?
+
+- Es una plataforma de correo electrónico calendario y colaboración.
+- Es un protocolo que gestiona tu correo electrónico, calendario y contactos
+
+Destinatarios > Grupos > Lista de distribución:
+
