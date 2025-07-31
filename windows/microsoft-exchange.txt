@@ -4,3 +4,5 @@
 - Es un protocolo que gestiona tu correo electrónico, calendario y contactos
 
 Destinatarios > Grupos > Lista de distribución:
+- Sirven para enviar correos electrónicos a multiples destinatarios a trávez de una única dirección de correo electrónico
+- Al enviar un correo electrónico a un grupo de distribución automáticamente se reenvia a los miembros asociados
