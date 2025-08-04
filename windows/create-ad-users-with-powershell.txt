@@ -1,0 +1,2 @@
+# Crea una cuenta y la contraseña la pide a travéz de un input
+New-ADUser -Name "Jack Robinson" -GivenName "Jack" -Surname "Robinson" -SamAccountName "j.robinson" -UserPrincipalName "j.robinson@wortika.com" -Path "OU=Empleados,OU=Usuarios,DC=wortika,DC=com" -AccountPassword(Read-Host -AsSecureString "Input Password") -Enable $true
