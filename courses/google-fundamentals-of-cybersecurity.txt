@@ -47,3 +47,49 @@ Pregunta 4
 
 > Números de cuenta bancaria
 > Registros A
+
+Pregunta 1
+Rellene el espacio en blanco: La ciberseguridad tiene como objetivo proteger las redes, los dispositivos, las personas y los datos de _____ o de accesos no autorizados. 
+> explotación delictiva
+
+Pregunta 2
+¿Cuáles de las siguientes tareas son normalmente responsabilidades de los analistas de Seguridad de nivel básico? Seleccione todas las que correspondan.
+>Instalación de software de prevención
+>Proteger los sistemas informáticos y de redes
+
+Pregunta 3
+Un empleado recibe un correo electrónico que cree legítimo. Hacen clic en un enlace comprometido dentro del correo electrónico. ¿Qué tipo de Amenaza interna describe este escenario?
+> Accidental
+
+Pregunta 4
+A un individuo le roban su información personal. Descubren que alguien está utilizando esa información para hacerse pasar por ellos y cometer un fraude. ¿Qué describe este escenario?
+> Robo de identidad
+
+Pregunta 5
+Rellene el espacio en blanco: Es probable que una organización que cumpla la normativa _____ multas.
+> evite
+
+Pregunta 6
+¿Cuáles de las siguientes aptitudes son ejemplos de habilidades técnicas? Seleccione dos respuestas.
+> Aplicación de la informática forense
+> Autómatización de tareas con programación
+
+Rellene el espacio en blanco: Las herramientas de gestión de la Información de Seguridad y _____ (SIEM) permiten a los profesionales de la Seguridad identificar y analizar las amenazas, los riesgos y las vulnerabilidades. 
+> Evento
+
+Un profesional de la Seguridad recibe una alerta sobre un usuario desconocido que accede a un sistema de su organización. Intentan identificar, analizar y preservar las pruebas delictivas asociadas. ¿Qué tarea de Seguridad describe este escenario?
+> Informpatica forense
+
+Pregunta 9
+
+¿Cuál de las siguientes afirmaciones describe con exactitud la información de identificación personal (PII) y la información de identificación personal sensible (SPII)? Seleccione todas las que correspondan.
+
+Pregunta 10
+¿Qué ocurre durante una Auditoría de seguridad?
+Pirateo ético de la red interna de una organización para identificar vulnerabilidades
+
+Pregunta 9
+¿Cuál de las siguientes afirmaciones describe con exactitud la información de identificación personal (PII) y la información de identificación personal sensible (SPII)? Seleccione todas las que correspondan.
+> Tanto la PII como la SPII son vulnerables al robo de identidad. 
+> Un ejemplo de SPII es la información financiera de alguien.
+> Un ejemplo de PII es la fecha de nacimiento de una persona.
