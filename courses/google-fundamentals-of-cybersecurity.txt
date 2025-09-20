@@ -16,6 +16,7 @@ Pregunta 3
 Rellene el espacio en blanco: La realización de _____ permite a los profesionales de la Seguridad revisar los Registros de Seguridad de una organización, sus actividades y los documentos relacionados.
 > auditorías de seguridad
 
+Pregunta 4
 ¿De qué manera aportan valor los equipos de Seguridad a una organización? Seleccione dos respuestas.
 >Proteger contra las amenazas externas e internas
 >Lograr el cumplimiento normativo
