@@ -1,1 +1,21 @@
+Pregunta 1
+Rellene el espacio en blanco: La ciberseguridad es la práctica de garantizar _____ protegiendo las redes, los dispositivos, las personas y los datos de accesos no autorizados o de explotaciones delictivas.
+> confidencialidad, integridad y disponibilidad de la Información
 
+Pregunta 2
+¿Cuáles son las principales responsabilidades de un analista de Seguridad de nivel básico? Seleccione tres respuestas.
+
+Monitorear sistemas 
+> Las principales responsabilidades de un analista de Seguridad de nivel básico son las siguientes: Monitorear los sistemas, Proteger la Información y Buscar los puntos débiles. 
+Búsqueda de debilidades 
+>Las principales responsabilidades de un analista de Seguridad de nivel básico son las siguientes: Monitorear los sistemas, Proteger la Información y Buscar los puntos débiles. 
+Proteger la Información
+> Las principales responsabilidades de un analista de Seguridad de nivel básico son las siguientes: Monitorear los sistemas, Proteger la Información y Buscar los puntos débiles. 
+
+Pregunta 3
+Rellene el espacio en blanco: La realización de _____ permite a los profesionales de la Seguridad revisar los Registros de Seguridad de una organización, sus actividades y los documentos relacionados.
+> auditorías de seguridad
+
+¿De qué manera aportan valor los equipos de Seguridad a una organización? Seleccione dos respuestas.
+>Proteger contra las amenazas externas e internas
+>Lograr el cumplimiento normativo
