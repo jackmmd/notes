@@ -20,3 +20,30 @@ Pregunta 4
 ¿De qué manera aportan valor los equipos de Seguridad a una organización? Seleccione dos respuestas.
 >Proteger contra las amenazas externas e internas
 >Lograr el cumplimiento normativo
+
+Definiciones:
+- Herramientas de administración de información y eventos de seguridad (SIEM)
+- Sistemas de detección de intrusiones (IDS)
+
+Pregunta 1
+¿Cuáles de las siguientes competencias son transferibles, susceptibles de ser aplicadas en casi cualquier campo? Seleccione tres respuestas. 
+
+> Comunicación escrita y verbal
+> Resolución de problemas
+> análisis
+
+Pregunta 2
+¿Cuáles de las siguientes competencias son habilidades técnicas necesarias para convertirse en un analista de Seguridad de nivel básico? Seleccione dos respuestas. 
+> Programació
+> Análisis de datos
+
+Pregunta 3
+Rellene el espacio en blanco: _____ identificar, analizar y preservar las pruebas delictivas dentro de las redes, las computadoras y los dispositivos electrónicos.
+> Investigadores forenses digitales
+
+
+Pregunta 4
+¿Qué ejemplos de información de identificación personal sensible (SPII) deben proteger los profesionales de la ciberseguridad? Seleccione dos respuestas.
+
+> Números de cuenta bancaria
+> Registros A
