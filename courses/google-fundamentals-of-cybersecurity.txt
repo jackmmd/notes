@@ -167,4 +167,19 @@ Pregunta 3
 > Se robaron millones de PII de clientes.
 
 
+---Módulo 3-----
+Pregunta 1
+Rellene el espacio en blanco: Un documento de seguridad _____ es un conjunto de directrices que se utilizan para elaborar planes que ayuden a mitigar los riesgos y las amenazas para los datos y la privacidad.
+> framework
 
+Pregunta 2
+Una organización requiere que sus empleados completen cada año un nuevo programa de Entrenamiento en Privacidad de los Datos para reducir el riesgo de una violación de datos. ¿De qué es un ejemplo este requisito de Entrenamiento?
+> Controles de seguridad
+
+Pregunta 3
+¿Cuál es un Modelo fundacional que informa sobre cómo las organizaciones tienen en cuenta el Riesgo a la hora de establecer sistemas y políticas de Seguridad?
+> Tríada de confidencialidad, integridad y disponibilidad (CID)
+
+Pregunta 4
+Los Equipos de Seguridad utilizan el Marco de Ciberseguridad (CSF) del NIST como base para gestionar los riesgos a corto y largo plazo.
+> Verdadero
