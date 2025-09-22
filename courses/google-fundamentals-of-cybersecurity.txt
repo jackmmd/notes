@@ -29,6 +29,7 @@ Definiciones:
 - El RGPD (Reglamento General de Protección de Datos)
 - Marco del NIST CSF: Proporciona un enfoque estructurado para la gestión de riesgos de ciberseguridad a través de sus funciones principales: Identificar, Proteger, Detectar, Responder y Recuperar.
 - PII (Personally Identifiable Information) (Información de Identificación Personal)
+- CID (Confidentiality, Integrity, and Availability) (Confidencialidad, integridad y disponiblidad)
 
 Pregunta 1
 ¿Cuáles de las siguientes competencias son transferibles, susceptibles de ser aplicadas en casi cualquier campo? Seleccione tres respuestas. 
