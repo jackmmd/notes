@@ -1,0 +1,8 @@
+NestJS ofrece una serie de pipes Parse* para diferentes tipos de datos: 
+
+ParseIntPipe: Para convertir a entero.
+ParseFloatPipe: Para convertir a número de punto flotante.
+ParseBoolPipe: Para convertir a booleano.
+ParseEnumPipe: Para validar y transformar a un valor de una enumeración.
+ParseArrayPipe: Para transformar un valor en un array.
+ParseDatePipe: Para convertir un valor a un objeto de fecha.
