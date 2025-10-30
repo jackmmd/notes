@@ -8,7 +8,7 @@ const mySet = new Set<number>();
 mySet.add(1);
 mySet.add(2);
 mySet.add(3);
-mySet.add(2); // ❌ No se agrega porque ya existe
+mySet.add(2); // No se agrega porque ya existe
 
 console.log(mySet.size); // Obtener tamaño
 console.log(mySet.has(2)); // Verificar si existe un valor 
