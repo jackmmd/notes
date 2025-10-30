@@ -1,7 +1,7 @@
 # Set
 Es una estructura de datos que permite almacenar valores únicos de cualquier tipo, ya sea primitivo u objeto. A direfencia de los arreglos los set no permiten elementos duplicados, si se pasa un valor que ya existe en el set se ignora.
 
-```typescrip
+```typescript
 const mySet = new Set<number>();
 
 // Agregar valores
