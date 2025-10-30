@@ -1,3 +1,21 @@
+# Set
+Es una estructura de datos que permite almacenar valores únicos de cualquier tipo, ya sea primitivo u objeto. A direfencia de los arreglos los set no permiten elementos duplicados, si se pasa un valor que ya existe en el set se ignora.
+
+```typescrip
+const mySet = new Set<number>();
+
+// Agregar valores
+mySet.add(1);
+mySet.add(2);
+mySet.add(3);
+mySet.add(2); // ❌ No se agrega porque ya existe
+
+console.log(mySet.size); // Obtener tamaño
+console.log(mySet.has(2)); // Verificar si existe un valor 
+mySet.delete(1); // Eliminar un valor
+mySet.clear(); // Eliminar todos los valores
+```
+
 # Record
 ### Definición
 Construye un tipo de objeto cuyas claves de propiedad son Keys y cuyos valores de propiedad son Type.
