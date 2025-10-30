@@ -1,3 +1,5 @@
+# Map
+
 ```typescript
 const products = [ {id:1,name:"pizza"} ];
 
