@@ -14,6 +14,8 @@ const messages:Record<Message,string> = {
 ```
 
 # Map
+### Definición
+Una colección de pares clave-valor que permite claves de cualquier tipo y matener el order de insercción
 
 ```typescript
 const products = [ {id:1,name:"pizza"} ];
