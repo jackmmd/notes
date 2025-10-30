@@ -1,3 +1,18 @@
+# Record
+### Definición
+Construye un tipo de objeto cuyas claves de propiedad son Keys y cuyos valores de propiedad son Type.
+
+```typescript
+type Message = "success" | "error" | "warning";
+
+const messages:Record<Message,string> = {
+  success:"Success message",
+  error:"Error message",
+  warning: "Warning message"
+};
+
+```
+
 # Map
 
 ```typescript
