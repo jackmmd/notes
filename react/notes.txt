@@ -1,0 +1,10 @@
+#### Apuntes
+https://lingui.dev/installation
+
+```bash
+pnpm add --save-dev @lingui/cli
+pnpm add @lingui/core
+pnpm add @lingui/react
+pnpm run lingui:extract
+pnpm run lingui:compile
+```
